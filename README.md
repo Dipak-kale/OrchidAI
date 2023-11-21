@@ -1,6 +1,6 @@
 # OrchidAI Retirement Management System
 
-## Team OrchidAI - T3 Hack
+## Team OrchidAI - T3 Hackackathon
 
 ### Team Members:
 - Yash Yuvraj Mete (Team Leader)
@@ -47,9 +47,6 @@ This module utilizes heart-related data to predict the presence of heart disease
 
 A feature that calculates investment returns for a given year. Integrated with Chart.js for visually appealing growth charts and JavaScript calculations for accurate financial projections.
 
-## Process Diagram
-
-![Process Diagram](link-to-your-image.png)
 
 ## Conclusion
 
@@ -66,8 +63,7 @@ The OrchidAI Retirement Management System has the potential to transform retirem
 To get started with OrchidAI Retirement Management System, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/orchidai-retirement.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+2. Run the application: `python app.py`
 
 For detailed instructions and API documentation, refer to the [Wiki](link-to-wiki) section.
 
